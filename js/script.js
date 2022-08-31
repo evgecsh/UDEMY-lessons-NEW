@@ -414,4 +414,6 @@ window.addEventListener("DOMContentLoaded", () => {
   let result = one + 1;
 
   alert(result);
+
+  console.log(result);
 });
