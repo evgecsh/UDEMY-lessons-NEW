@@ -408,4 +408,10 @@ window.addEventListener("DOMContentLoaded", () => {
   next.addEventListener("click", () => {
     plusSlides(1);
   });
+
+  const one = 1;
+
+  let result = one + 1;
+
+  alert(result);
 });
