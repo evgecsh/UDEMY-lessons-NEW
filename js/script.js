@@ -1,4 +1,6 @@
 "use strict";
+var Promise = require("es6-promise-polyfill").Promise;
+import "nodelist-foreach-polyfill";
 
 import tabs from "./modules/tabs";
 import cards from "./modules/cards";
